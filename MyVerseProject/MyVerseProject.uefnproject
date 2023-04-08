@@ -1,0 +1,45 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "MyVerseProject",
+	"description": "A starter project for Verse devices.",
+	"keyArt": "Resources/Icon128.png",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "24.10",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "MyVerseProject",
+			"bIsRoot": true,
+			"bIsPublic": false,
+			"bEnabled": true
+		}
+	],
+	"dependencies": [],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 16,
+			"maxTeamSize": -1,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": false,
+			"allowSquadFillOption": true,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "97ce2831-44ed-057c-5579-bea980c38507",
+		"modules":
+		{
+			"MyVerseProject": "a17f02a9-4df7-a8c5-4497-6f8f4a5835b1"
+		}
+	}
+}

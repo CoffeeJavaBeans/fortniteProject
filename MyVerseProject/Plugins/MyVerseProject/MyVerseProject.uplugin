@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/localhost/MyVerseProject",
+	"EnabledByDefault": false,
+	"Installed": false,
+	"Hidden": true,
+	"ExplicitlyLoaded": true,
+	"FortReleaseVersion": "Future",
+	"builtInAutoActivate": false,
+	"ValkyrieSettings":
+	{
+		"defaultMap": ""
+	},
+	"VersionName": "",
+	"FriendlyName": "MyVerseProject",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
+}
